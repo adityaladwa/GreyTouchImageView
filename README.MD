@@ -20,6 +20,15 @@ dependencies {
 ```
 
 
+## Usage
+```xml
+<com.ladwa.aditya.greytouchimageview.GreyTouchImageView
+        android:id="@+id/img_grey"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@mipmap/ic_launcher"/>
+
+```
 
 
 
