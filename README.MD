@@ -3,7 +3,7 @@
 
 
 
-Add this in your root build.gradle at the end of repositories:
+## Setup
 ```gradle
 allprojects {
     repositories {
@@ -31,6 +31,7 @@ dependencies {
 ```
 
 
+## Licence
 
 ```txt
 Copyright 2016 Aditya Ladwa
