@@ -3,6 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/LadwaAditya/GreyTouchImageView.svg)](https://github.com/LadwaAditya/GreyTouchImageView/network)
 [![GitHub stars](https://img.shields.io/github/stars/LadwaAditya/GreyTouchImageView.svg)](https://github.com/LadwaAditya/GreyTouchImageView/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/LadwaAditya/GreyTouchImageView.svg)](https://github.com/LadwaAditya/GreyTouchImageView/issues)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-GreyTouchImageView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5443)
 ## Setup
 ```gradle
 allprojects {
