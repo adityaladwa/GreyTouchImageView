@@ -1,8 +1,8 @@
 [![Release](https://jitpack.io/v/LadwaAditya/GreyTouchImageView.svg)](https://jitpack.io/#LadwaAditya/GreyTouchImageView)
 [![android min api](https://img.shields.io/badge/API-15+-blue.svg)](#greytouchimageview)
-
-
-
+[![GitHub forks](https://img.shields.io/github/forks/LadwaAditya/GreyTouchImageView.svg)](https://github.com/LadwaAditya/GreyTouchImageView/network)
+[![GitHub stars](https://img.shields.io/github/stars/LadwaAditya/GreyTouchImageView.svg)](https://github.com/LadwaAditya/GreyTouchImageView/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/LadwaAditya/GreyTouchImageView.svg)](https://github.com/LadwaAditya/GreyTouchImageView/issues)
 ## Setup
 ```gradle
 allprojects {
